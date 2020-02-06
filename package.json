@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ser-di/semantic-relese-test#readme",
   "devDependencies": {
     "semantic-release": "^17.0.2"
+  },
+  "release": {
+    "branches": ["master", "staging"]
   }
 }
